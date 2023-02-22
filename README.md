@@ -1,6 +1,6 @@
 # :musical_note: Site musical 
 Bem-vindos ao meu Site Musical, uma proposta de trabalho de Desenvolvimento Web do curso Proa Programação feita pelo professor Gabriel Agusto.
-Nesse projeto escolhemos músicas que representassem as mais diversas facetas das nossas vidas. No meu caso, decidi não deixar explicito a qual situação cada música pertence e, ao invés disso, permitir que você tente adivinhar - ou apenas ouvi-la.
+Nesse projeto escolhemos músicas que representassem as mais diversas facetas das nossas vidas. No meu caso, decidi não deixar explicito a qual situação cada música pertence e, ao invés disso, permitir que você tente adivinhar, ou apenas ouvir, mas direi abaixo qual o tema de cada parte.
 
 Abaixo explicarei mais sobre meu processo criativo, mas, caso não tenha visto, peço que confira minha página antes disso.
 
@@ -22,7 +22,7 @@ A primeira parada é no Telescópio, onde você pode usar as estrelas para desco
 </p>
 
 A ideia de brincar com esse trabalho me veio desde o início, então continuei com isso e, como podedemos ver nas próximas paradas, cada lugar apresenta a proposta de uma maneira diferente.
-Na casa, por exemplo, podemos ver o meu quarto com diversas decorações (e boa parte dos easter eggs).
+Na casa, por exemplo, podemos ver o meu quarto com diversas decorações (e boa parte dos easter eggs). Nele estão músicas sobre lembranças e desejos.
 
 <p align="center">
   <img width="660" height="420" src="https://github.com/gabriela4souza/Site-musical/blob/main/Site%20musical/Imagens/Quarto/quarto.gif">
