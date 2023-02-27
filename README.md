@@ -1,6 +1,6 @@
 # :musical_note: Site musical 
 Bem-vindos ao meu Site Musical, uma proposta de trabalho de Desenvolvimento Web do curso Proa Programação feita pelo professor Gabriel Agusto.
-Nesse projeto escolhemos músicas que representassem as mais diversas facetas das nossas vidas. No meu caso, decidi não deixar explicito a qual situação cada música pertence e, ao invés disso, permitir que você tente adivinhar, ou apenas ouvir, mas direi abaixo qual o tema de cada parte.
+Nesse projeto escolhemos músicas que representassem as mais diversas facetas das nossas vidas. No meu caso, decidi não deixar explicito a qual situação cada música pertence e, ao invés disso, permitir que você tente adivinhar, ou apenas ouvir, mas direi qual o tema de cada parte.
 
 Abaixo explicarei mais sobre meu processo criativo, mas, caso não tenha visto, peço que confira minha página antes disso.
 
