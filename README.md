@@ -48,7 +48,7 @@ Por último, vamos nos sentar e refletir sobre nós e nossas emoções. Foi assi
   <img width="660" height="420" src="https://github.com/gabriela4souza/Site-Musical/blob/main/Site%20musical/Vista/vista.gif">
 </p>
 
-Nessa parte, escolhi o amarelo para representar a felicidade, rosa para o amor, vermelho para a raiva, azul para a tristeza e roxo para ansiedade. As duas últimas cores são sobre emoções particulares: azul-marinho para quando eu jogo SpiritFarer e verde para quando escuto músicas que me lembram a natureza, como é o caso de Summer Salt.
+Nessa parte, escolhi o amarelo para representar a felicidade, rosa para o amor, vermelho para a raiva, azul para a tristeza e roxo para ansiedade. As duas últimas cores são sobre emoções particulares: azul-marinho para quando eu jogo SpiritFarer e verde para quando escuto músicas que me lembram a natureza, como é o caso de Driving To Hawaii da banda Summer Salt.
 
 # :hammer_and_wrench: Ferramentas 
 Para realizar este trabalho utilizei o site Figma para planejar e anotar ideias, Notepad++ para escrever o código e o aplicativo Aseprite para desenhar as artes.
