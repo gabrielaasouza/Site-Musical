@@ -54,5 +54,5 @@ Nessa parte, escolhi o amarelo para representar a felicidade, rosa para o amor, 
 Para realizar este trabalho utilizei o site Figma para planejar e anotar ideias, Notepad++ para escrever o código e o aplicativo Aseprite para desenhar as artes.
 
 <p align="center">
-  <img width="660" height="420" src="https://github.com/gabriela4souza/Site-Musical/blob/main/Site%20musical/Imagens/ferramentas.png">
+  <img width="169" height="51" src="https://github.com/gabriela4souza/Site-Musical/blob/main/Site%20musical/Imagens/ferramentas.png">
 </p>
