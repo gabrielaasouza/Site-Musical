@@ -2,7 +2,7 @@
 Bem-vindos ao meu Site Musical, uma proposta de trabalho de Desenvolvimento Web do curso Proa Programação feita pelo professor Gabriel Agusto.
 Nesse projeto escolhemos músicas que representassem as mais diversas facetas das nossas vidas. No meu caso, decidi não deixar explicito a qual situação cada música pertence e, ao invés disso, permitir que você tente adivinhar, ou apenas ouvir, mas direi qual o tema de cada parte.
 
-Abaixo explicarei mais sobre meu processo criativo, mas, caso não tenha visto, peço que confira minha página antes disso.
+Esse foi meu primeiro projeto com HTML e abaixo explicarei mais sobre meu processo criativo, mas, caso não tenha visto, peço que confira minha página antes disso.
 
 # :bulb: Os primórdios
 Ao explicar o trabalho, o professor expecificou que a primeira página não poderia ter palávras ou números, então pensei em criar um mapa em estilo RPG. No entanto, como planejava desenhar as outras páginas pela visão frontal, achei melhor também deixar a primeira página nessa ângulo.
