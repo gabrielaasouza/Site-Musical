@@ -52,3 +52,7 @@ Nessa parte, escolhi o amarelo para representar a felicidade, rosa para o amor, 
 
 # :hammer_and_wrench: Ferramentas 
 Para realizar este trabalho utilizei o site Figma para planejar e anotar ideias, Notepad++ para escrever o código e o aplicativo Aseprite para desenhar as artes.
+
+<p align="center">
+  <img width="169" height="51" src="https://github.com/gabriela4souza/Site-Musical/blob/main/Site%20musical/Imagens/ferramentas.png">
+</p>
